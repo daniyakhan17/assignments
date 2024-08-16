@@ -80,3 +80,40 @@ else {
     console.log("500 zyada do or admission loo");
 }
 
+// var num1 = +prompt("enter number 1");
+// var num2 = Number(prompt("enter number 2"));
+// console.log(num1 + num2);
+
+
+// var userInput = +prompt("enter number");
+// if(userInput > 10){
+//     console.log ("10 se chota number doooo");
+// }
+// else if (userInput === 7){
+//     console.log("tum jeet gay ho ...");
+// }
+// else if (userInput === 6 || userInput === 8){
+//     console.log("areeb kareeb ho")
+// }
+// else{
+//     console.log ("har gay ho");
+// }
+
+
+// char subjects k marks lenay hy 
+
+
+// var total = 400;
+// var chemMarks = 92;
+// var engMarks = 85;
+// var urduMarks = 88;
+// var phyMarks = 78;
+
+// var obtaindMarks = chemMarks + engMarks + urduMarks + phyMarks ;
+
+// var percentage = obtaindMarks / total * 100;
+
+// console.log ("you got" + percentage + "%");
+
+
+
